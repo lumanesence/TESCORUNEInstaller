@@ -24,3 +24,6 @@ Yes! - the files that the installer uses to put on your hard drive are located i
 * Yellow Soul lib - vitellaryjr
 * Big Shot FLP - Nini
 * Deltarune is made by Toby Fox and his team (obviously)
+
+# DISCLAIMER
+Both the mod and installer are provided as-is without any warranties or guarantees. 
