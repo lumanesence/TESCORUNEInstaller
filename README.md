@@ -27,3 +27,5 @@ Yes! - the files that the installer uses to put on your hard drive are located i
 
 # DISCLAIMER
 Both the mod and installer are provided as-is without any warranties or guarantees. 
+
+*Copyright 2026 The OneLyte Association. All rights reserved*
