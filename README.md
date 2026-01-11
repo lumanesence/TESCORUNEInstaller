@@ -13,7 +13,7 @@ To put it really simply, TESCORUNEInstaller is an NSIS-generated .exe file used 
 Please note that the malicious activity mentioned in both of these reports is Kristal dropping it's own files into AppData. These too have not been modified and show no forms of malicious behaviour. Feel free to submit these files yourself if you so wish, and let me know via email what you find: t.hall2009@outlook.com. Since this app also installs to Program Files, C:\Program Files\The OneLyte Association\TESCORUNE to be exact, the installer will request for elevation.
 
 ## Can I build the installer myself?
-Yes! - the files that the installer uses to put on your hard drive are located in the "DIY.zip" file in the root of this repository
+Yes! - the files that the installer uses to put on your hard drive are located in the "DIY.zip" under each release
 
 ## Credits
 ##### Copied from i-win's repo since I'm lazy
