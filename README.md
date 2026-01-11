@@ -4,7 +4,7 @@ A simple installer for i-win's TESCORUNE (DELTARUNE mod) written in Nullsoft Ins
 ##  What is it?
 To put it really simply, TESCORUNEInstaller is an NSIS-generated .exe file used for installiing Kristal (the launcher that TESCORUNE uses) onto your hard drive while also installing the TESCORUNE mod itself into your AppData Roaming folder. 
 
-## Has the mod istelf been modified?
+## Has Kristal or the mod istelf been modified?
 **NO - the mod itself has not been modified in any way.** To prove this, I ran the file through both RF Triage and AnyRun, which are both web apps designed to allow users to analyze what an executable file does. Below are the links to each analaysis:
 
 - https://any.run/report/39d3d934c0a605398034f070bab5a109971b9e1502f1b60068016092866ad951/2824c0e5-93d6-47d3-8a6b-588b52d047d8
