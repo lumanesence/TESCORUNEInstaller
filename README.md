@@ -23,7 +23,7 @@ Yes! - the files that the installer uses to put on your hard drive are located i
 5. Select the "tescorune.nsi" file
 6. Compile the installer by pressing CTRL+R
 
-You may also make any modifications to this installer, making sure you credit both me and i-win when using it
+You may also make any modifications to this installer and publish it as such, making sure you credit both me and i-win when doing so
 
 ## Credits
 ##### Copied from i-win's repo since I'm lazy
