@@ -15,6 +15,16 @@ Please note that the malicious activity mentioned in both of these reports is Kr
 ## Can I build the installer myself?
 Yes! - the files that the installer uses to put on your hard drive are located in the "DIY.zip" under each release
 
+### Building the installer
+1. Download and install NSIS from https://nsis.sourceforge.io/Download
+2. Open NSIS and click on "Compile NSI Scripts"
+3. Download the "DIY.zip" file from the latest release, and extract it
+4. Witin the "MakeNSISW" window, go to File -> Load Script (or press CTRL+L)
+5. Select the "tescorune.nsi" file
+6. Compile the installer by pressing CTRL+R
+
+You may also make any modifications to this installer, making sure you credit both me and i-win when using it
+
 ## Credits
 ##### Copied from i-win's repo since I'm lazy
 * Installer: Me! (Lumanesence)
