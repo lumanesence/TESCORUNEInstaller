@@ -2,10 +2,10 @@
 A simple installer for i-win's TESCORUNE (DELTARUNE mod) written in Nullsoft Install System
 
 ##  What is it?
-To put it really simply, TESCORUNEInstaller is an NSIS-generated .exe file used for installiing Kristal (the launcher that TESCORUNE uses) onto your hard drive while also installing the TESCORUNE mod itself into your AppData Roaming folder. 
+To put it really simply, TESCORUNEInstaller is an NSIS-generated .exe file used for installiing Kristal (the launcher that TESCORUNE uses) onto your hard drive while also installing the TESCORUNE mod itself into your AppData Roaming folder, streamlining the whole process for you!
 
 ## Has Kristal or the mod istelf been modified?
-**NO - neither Kristal or the mod itself has not been modified in any way.** To prove this, I ran the file through both RF Triage and AnyRun, which are both web apps designed to allow users to analyze what an executable file does. Below are the links to each analaysis:
+**No, absolutely not - neither Kristal or the mod itself has not been modified in any way.** To prove this, I ran the file through both RF Triage and AnyRun, which are both web apps designed to allow users to analyze what an executable file does. Below are the links to each analaysis:
 
 - https://any.run/report/39d3d934c0a605398034f070bab5a109971b9e1502f1b60068016092866ad951/2824c0e5-93d6-47d3-8a6b-588b52d047d8
 - https://tria.ge/260111-mtz19sht2h/behavioral1
@@ -24,6 +24,15 @@ Yes! - the files that the installer uses to put on your hard drive are located i
 6. Compile the installer by pressing CTRL+R
 
 You may also make any modifications to this installer and publish it as such, making sure you credit both The OneLyte Association and i-win when doing so
+
+# Install Instructions
+1. Go to the "Releases" tab
+2. Download the latest release (it should have the filename of "TESCORUNEInstaller.[version].zip"), wherein "[version]" specifies the release. DIY.zip is for people who want to build the installer themselves
+3. Extract *everything*, preferrably into it's own folder
+4. Run "TESCORUNE_Setup.exe"
+5. Follow the instructions to complete the install
+6. After the installation is completed, open the "TESCORUNE" application by means of the start menu or desktop shortcut
+7. Verify that the mod is installed by pressing "Play a Mod". If you see "TESCORUNE by i-win", then you have everything configured correctly!
 
 ## Credits
 ##### Copied from i-win's repo since I'm lazy
