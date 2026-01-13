@@ -19,9 +19,10 @@ Yes! - the files that the installer uses to put on your hard drive are located i
 1. Download and install NSIS from https://nsis.sourceforge.io/Download
 2. Open NSIS and click on "Compile NSI Scripts"
 3. Download the "DIY.zip" file from the latest release, and extract it
-4. Witin the "MakeNSISW" window, go to File -> Load Script (or press CTRL+L)
+4. Within the "MakeNSISW" window, go to File -> Load Script (or press CTRL+L)
 5. Select the "tescorune.nsi" file
-6. Compile the installer by pressing CTRL+R
+6. Do a test run by pressing "Test Installer"
+7. Compile the installer by pressing CTRL+R
 
 You may also make any modifications to this installer and publish it as such, making sure you credit both The OneLyte Association and i-win when doing so
 
