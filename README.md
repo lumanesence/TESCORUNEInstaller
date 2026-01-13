@@ -50,4 +50,4 @@ Both the mod and installer are provided as-is without any warranties or guarante
 
 *Copyright 2026 The OneLyte Association. All rights reserved*
 
-*TESCORUNE is a product of Indigo Systems, trading as i-win. Copyright 2026 Indigo Systems. All Rights Reserved*
+*TESCORUNE is a product of i-winXD. Copyright 2026 i-winXD. All Rights Reserved*
